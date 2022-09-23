@@ -1,0 +1,98 @@
+commit a36220cefc7117534996f7c0f20649a8f0e8de6a
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 23:09:36 2022 -0300
+
+    Agregando otro parrafo
+
+commit 4d0f0de4e4010a93872ad46d27a2bcf15bfcdfbd
+Merge: 170ee27 71afcdb
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 23:04:55 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 170ee277191cc845cecc626a5f13f72212072d5c
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 22:44:45 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 71afcdbf4d4530c7338451ce36622cbb429ee5f3
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 22:44:45 2022 -0300
+
+    Agregando estaciones del año
+
+commit 82be75e0fb66ff8fe3d9d267640b77048b963fee
+Merge: 84410df aa97c07
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 22:30:54 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento index-html
+
+commit aa97c070678d6f2ae8cb17b2053a76b4a13dd526
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 22:21:48 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 84410df0f6274a46129846e184f5b539328a999c
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 22:18:44 2022 -0300
+
+    Agregando style.css al index.html
+
+commit a14868fb535fcdfb1fd7628b3ad924d1c1e48ca0
+Merge: 1c6c542 f40e59c
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 20:56:56 2022 -0300
+
+    Merge branch 'js'
+
+commit f40e59c7bd7bd8b2b41c9b61425c1c35de4e011e
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 20:20:51 2022 -0300
+
+    Creando index js
+
+commit 1c6c5427fafba460a331da33181fb2a4fc507228
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 20:15:20 2022 -0300
+
+    creando style.css
+
+commit a047f7bdbe839bcfb1dc9a21c3f3119ae90145df
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 20:02:31 2022 -0300
+
+    creando index html
+
+commit 3f4ba3e8dc81ca3df2a8e5530bd61c9cba9e6563
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 18:38:13 2022 -0300
+
+    ignorando archivos .exe
+
+commit 15311c0417a4a03b040bdd19caefa1f2720b643e
+Author: GermanBruscaglia <54038021+GermanBruscaglia@users.noreply.github.com>
+Date:   Thu Sep 22 15:34:39 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 9edda7b62200a2d53423e788d31790f22464c324
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 15:07:59 2022 -0300
+
+    Agregando contenido al README
+
+commit b8806d7d2ab4c28f7b956047f7952e699f536139
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 12:55:21 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit f509272ba7fe50ad9709fdbe87c964f7148dee6b
+Author: German Bruscaglia <germanbruscaglia@gmail.com>
+Date:   Thu Sep 22 12:44:52 2022 -0300
+
+    Primer Commit 😀
